@@ -7,15 +7,8 @@ title: CV
 
 {% include contact.html %}
 
-## Section
+## Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Reach out to me for Work opportunities, projects and collaborations via Email at <a href="mailto:thea.sea@igipen.edu">thea.sea@digipen.edu</a> !
 
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
-
-### Subsection
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<a href="https://www.linkedin.com/in/thea-sea-01a11923a/">Connect with me on LinkedIn here! </a>
